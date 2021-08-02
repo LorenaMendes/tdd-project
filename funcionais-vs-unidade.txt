@@ -1,0 +1,2 @@
+Os testes funcionais representam melhor o ponto de vista dos usuários, enquanto os testes de unidade representam melhor o ponto de vista dos desenvolvedores.
+Os testse de unidade tendem a mudar com mais frequência que os funcionais, pois eles representam partes menores e mais baixo nível.
