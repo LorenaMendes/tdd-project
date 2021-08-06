@@ -1,0 +1,8 @@
+O TDD pode ser resumido em três passos: código falhando, código passando
+e refatoração. A ideia é fazer o teste e rodar o programa. Se ele passa,
+checamos se precisa de refatoração. Caso não rode, adaptamos o programa
+para que passe (mesmo que seja com um retorno hardcoded).
+
+No caso dessa atividade, escrevemos o teste funcional, testamos se o pro-
+grama passa. Se sim e não precisa de refatoração, passamos ao teste de
+unidade e repetimos a ideia do parágrafo anterior.
